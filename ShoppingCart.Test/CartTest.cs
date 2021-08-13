@@ -45,7 +45,7 @@ namespace ShoppingCart.Test
         }
 
         [TestMethod]
-        public void RemoveToCartProduct()
+        public void RemoveFromCartProduct()
         {
             var sumCartProduct = _cartManager.TotalItem;
             //Act
@@ -57,7 +57,7 @@ namespace ShoppingCart.Test
         }
 
         [TestMethod]
-        public void RemoveToCart()
+        public void RemoveFromCart()
         {
             //Act
             _cartManager.Clear();
