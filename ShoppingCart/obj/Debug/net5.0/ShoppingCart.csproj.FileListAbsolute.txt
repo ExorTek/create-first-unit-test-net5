@@ -1,0 +1,12 @@
+C:\Users\Memet\source\repos\CreateFirstUnitTest\ShoppingCart\bin\Debug\net5.0\ShoppingCart.deps.json
+C:\Users\Memet\source\repos\CreateFirstUnitTest\ShoppingCart\bin\Debug\net5.0\ShoppingCart.dll
+C:\Users\Memet\source\repos\CreateFirstUnitTest\ShoppingCart\bin\Debug\net5.0\ref\ShoppingCart.dll
+C:\Users\Memet\source\repos\CreateFirstUnitTest\ShoppingCart\bin\Debug\net5.0\ShoppingCart.pdb
+C:\Users\Memet\source\repos\CreateFirstUnitTest\ShoppingCart\obj\Debug\net5.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\Memet\source\repos\CreateFirstUnitTest\ShoppingCart\obj\Debug\net5.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memet\source\repos\CreateFirstUnitTest\ShoppingCart\obj\Debug\net5.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\Memet\source\repos\CreateFirstUnitTest\ShoppingCart\obj\Debug\net5.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\Memet\source\repos\CreateFirstUnitTest\ShoppingCart\obj\Debug\net5.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\Memet\source\repos\CreateFirstUnitTest\ShoppingCart\obj\Debug\net5.0\ShoppingCart.dll
+C:\Users\Memet\source\repos\CreateFirstUnitTest\ShoppingCart\obj\Debug\net5.0\ref\ShoppingCart.dll
+C:\Users\Memet\source\repos\CreateFirstUnitTest\ShoppingCart\obj\Debug\net5.0\ShoppingCart.pdb
